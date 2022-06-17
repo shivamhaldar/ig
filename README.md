@@ -1,1 +1,1 @@
-(https://shivamhaldar.github.io/ig.github.io/)
+https://shivamhaldar.github.io/ig
