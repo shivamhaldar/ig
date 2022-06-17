@@ -118,7 +118,11 @@ main::-webkit-scrollbar{
 }
 /* navbar styles end */
 
-
+body{
+  background-image: url(images/new.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
 
 /* Hero section styles */
 .heroSection{
