@@ -40,9 +40,7 @@ body::before{
   height: 100vh;
   background: linear-gradient(
 180deg
-, rgba(255, 255, 255, 0.72) 0%, rgba(255, 255, 255, 0.45) 100%);
-  -webkit-backdrop-filter: saturate(3);
-  backdrop-filter: saturate(3);
+, rgba(255, 255, 255, 0.45) 100%);
 }
 
 body {
@@ -119,7 +117,7 @@ main::-webkit-scrollbar{
 /* navbar styles end */
 
 body{
-  background-image: url(images/nw.png);
+  background-image: url(images/nwe.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
